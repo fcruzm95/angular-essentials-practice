@@ -1,5 +1,8 @@
 # EssentialsPractice
 
+The main objective of this project is to create an Investment Calculator for practising Angular.
+Currently is using angular 18 instead of the latest version.
+Credit to Maximillian Schwarzmüller for the course Angular - The Complete Guide (2025 Edition).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
 ## Development server
